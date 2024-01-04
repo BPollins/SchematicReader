@@ -1,0 +1,2 @@
+This project aims to create a tool that construction professionals can use to automatically read mechanical schematics and tally up the number of valves. This will be useful for automated valve scheduling and for the foundation of purchase orders.
+I will use the 'Reader' program to find the images of the valves within the drawing, and then classify these with 'Classify' - using a machine learning model to identify the valve types.
