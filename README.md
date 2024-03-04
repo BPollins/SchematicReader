@@ -1,3 +1,5 @@
+# Schematic Reader Project
+
 ### Purpose
 This project aims to create a tool that construction professionals can use to automatically read mechanical schematics and tally up the number of valves. This will be useful for automated valve scheduling and for the formulation of purchase orders.
 I will use the 'Reader' program to find the valves within the drawing, and then classify these with 'Classify' - using a machine learning model (Support Vector Classification) to identify the valve types and tally these up.
